@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* p{
+    margin-top: 30px;
+    padding-top: 30px;
+} */
+/* .el1{
+    margin-top: 40px;
+} */
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text{
+    width: 400px;
+    /* border-style: dashed;
+    border-width: 3px;
+    border-color: brown; */
+    border: 3px dashed brown;
+    border-radius: 10px;
+    /* margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px; */
+    margin: 60px;
+    /* padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px; */
+    padding: 40px 20px;
+}
